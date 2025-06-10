@@ -246,9 +246,9 @@
           dayEvents.forEach((e) => {
             const eventEl = document.createElement("div");
             eventEl.classList.add("event");
-            if (e.title.includes("IT")) eventEl.classList.add("IT");
-            else if (e.program.includes("MIM")) eventEl.classList.add("MIM");
-            else if (e.title.includes("Entrepreneurship"))
+            if (e.section.includes("IT")) eventEl.classList.add("IT");
+            else if (e.section.includes("MIM")) eventEl.classList.add("MIM");
+            else if (e.section.includes("Entrepreneurship"))
               eventEl.classList.add("Entrepreneurship");
             eventEl.textContent = e.program + " - " + e.title;
             dayBox.appendChild(eventEl);
