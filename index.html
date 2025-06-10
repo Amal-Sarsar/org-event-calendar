@@ -246,7 +246,7 @@
           dayEvents.forEach((e) => {
             const eventEl = document.createElement("div");
             eventEl.classList.add("event");
-            if (e.program.title("IT")) eventEl.classList.add("IT");
+            if (e.title("IT")) eventEl.classList.add("IT");
             else if (e.program.includes("MIM")) eventEl.classList.add("MIM");
             else if (e.title.includes("Entrepreneurship"))
               eventEl.classList.add("Entrepreneurship");
