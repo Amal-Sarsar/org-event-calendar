@@ -1,213 +1,292 @@
 [
-    {
-        "date": "2025-05-27",
-        "title": "Financial Literacy- Workshop",
-        "program": "MIM Program"
-    },
-    {
-        "date": "2025-06-24",
-        "title": "Financial Literacy- Workshop",
-        "program": "MIM Program"
-    },
-    {
-        "date": "2025-07-29",
-        "title": "Financial Literacy- Workshop",
-        "program": "MIM Program"
-    },
-    {
-        "date": "2025-08-26",
-        "title": "Financial Literacy- Workshop",
-        "program": "MIM Program"
-    },
-    {
-        "date": "2025-09-30",
-        "title": "Financial Literacy- Workshop",
-        "program": "MIM Program"
-    },
-    {
-        "date": "2025-10-28",
-        "title": "Financial Literacy- Workshop",
-        "program": "MIM Program"
-    },
-    {
-        "date": "2025-11-25",
-        "title": "Financial Literacy- Workshop",
-        "program": "MIM Program"
-    },
-    {
-        "date": "2026-01-27",
-        "title": "Financial Literacy- Workshop",
-        "program": "MIM Program"
-    },
-    {
-        "date": "2026-2-24",
-        "title": "Financial Literacy- Workshop",
-        "program": "MIM Program"
-    },
-    {
-        "date": "2026-03-31",
-        "title": "Financial Literacy- Workshop",
-        "program": "MIM Program"
-    },
-    {
+  {
+    "date": "2025-05-27",
+    "title": "Financial Literacy- Workshop",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
+    "date": "2025-06-24",
+    "title": "Financial Literacy- Workshop",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
+    "date": "2025-07-29",
+    "title": "Financial Literacy- Workshop",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
+    "date": "2025-08-26",
+    "title": "Financial Literacy- Workshop",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
+    "date": "2025-09-30",
+    "title": "Financial Literacy- Workshop",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
+    "date": "2025-10-28",
+    "title": "Financial Literacy- Workshop",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
+    "date": "2025-11-25",
+    "title": "Financial Literacy- Workshop",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
+    "date": "2026-01-27",
+    "title": "Financial Literacy- Workshop",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
+    "date": "2026-2-24",
+    "title": "Financial Literacy- Workshop",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
+    "date": "2026-03-31",
+    "title": "Financial Literacy- Workshop",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
     "date": "2025-07-09",
-        "title": "Be Your Own Boss- Workshop",
-        "program": "MIM Program"
-    },
-    {
+    "title": "Be Your Own Boss- Workshop",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
     "date": "2025-08-13",
-        "title": "Be Your Own Boss- Workshop",
-        "program": "MIM Program"
-    },
-    {
+    "title": "Be Your Own Boss- Workshop",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
     "date": "2025-09-10",
-        "title": "Be Your Own Boss- Workshop",
-        "program": "MIM Program"
-    },
-    {
+    "title": "Be Your Own Boss- Workshop",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
     "date": "2025-10-08",
-        "title": "Be Your Own Boss- Workshop",
-        "program": "MIM Program"
-    },
-    {
+    "title": "Be Your Own Boss- Workshop",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
     "date": "2025-11-12",
-        "title": "Be Your Own Boss- Workshop",
-        "program": "MIM Program"
-    },
-    {
+    "title": "Be Your Own Boss- Workshop",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
     "date": "2025-12-10",
-        "title": "Be Your Own Boss- Workshop",
-        "program": "MIM Program"
-    },
-    {
+    "title": "Be Your Own Boss- Workshop",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
     "date": "2025-08-04",
-        "title": "Entrepreneurship - Cohort 6",
-        "program": "AWA Program"
-    },
-    {
+    "title": "Entrepreneurship - Cohort 6",
+    "program": "AWA Program",
+    "section": "Entrepreneurship"
+  },
+  {
     "date": "2025-10-27",
-        "title": "Entrepreneurship - Cohort 7",
-        "program": "AWA Program"
-    },
-    {
+    "title": "Entrepreneurship - Cohort 7",
+    "program": "AWA Program",
+    "section": "Entrepreneurship"
+  },
+  {
     "date": "2026-01-12",
-        "title": "Entrepreneurship - Cohort 8",
-        "program": "AWA Program"
-    },
-    {
-    "date": "2026-03-16",
-        "title": "Entrepreneurship - Cohort 9",
-        "program": "AWA Program"
-    },
-    {
-    "date": "2025-08-18",
-        "title": "IT - Cohort 6",
-        "program": "AWA Program"
-    },
-    {
-    "date": "2025-10-13",
-        "title": "IT - Cohort 7",
-        "program": "AWA Program"
-    },
-    {
-    "date": "2026-01-26",
-        "title": "IT - Cohort 8",
-        "program": "AWA Program"
-    },
-    {
-    "date": "2026-03-30",
-        "title": "IT - Cohort 9",
-        "program": "AWA Program"
-    },
-    {
-    "date": "2025-01-30",
-        "title": "Information Session",
-        "program": "MIM Program"
-    },
-    {
-    "date": "2025-10-04",
-        "title": "Information Session",
-        "program": "MIM Program"
-    },
-    {
-    "date": "2025-07-15",
-        "title": " Training - cohort 3",
-        "program": "MIM Program IT"
-    },
-    {
-    "date": "2025-12-09",
-        "title": " Training - cohort 4",
-        "program": "MIM Program IT"
-    },
-    {
-    "date": "2025-05-10",
-        "title": "Food Handler's Training - Cohort",
-        "program": "MIM Program"
-    },
-    {
-    "date": "2025-10-11",
-        "title": "Food Handler's Training - Cohort",
-        "program": "MIM Program"
-    },
-    {
-    "date": "2026-03-07",
-        "title": "Food Handler's Training - Cohort",
-        "program": "MIM Program"
-    },
-    {
+    "title": "Entrepreneurship - Cohort 8",
+    "program": "AWA Program",
+    "section": "Entrepreneurship"
+  },
+  {
+    "date": "2025-08-13",
+    "title": "Entrepreneurship - Workshop - Business ideation, Business Plan ",
+    "program": "AWA Program",
+    "section": "Entrepreneurship"
+  },
+  {
     "date": "2026-09-10",
-        "title": "Home Day Care - Cohort",
-        "program": "MIM Program"
-    },
-    
-    {
+    "title": "Entrepreneurship - Workshop - Marketing, and Sales",
+    "program": "AWA Program",
+    "section": "Entrepreneurship"
+  },
+  {
+    "date": "2025-10-08",
+    "title": "Entrepreneurship - Workshop - Customer Acquisition, Retention and Customer feedback ",
+    "program": "AWA Program",
+    "section": "Entrepreneurship"
+  },
+  {
+    "date": "2025-11-12",
+    "title": "Entrepreneurship - Workshop - Branding and Brand Equity ",
+    "program": "AWA Program",
+    "section": "Entrepreneurship"
+  },
+  {
+    "date": "2026-01-14",
+    "title": "Entrepreneurship - Workshop - Investor Presentation / Financing your Business ",
+    "program": "AWA Program",
+    "section": "Entrepreneurship"
+  },
+  {
+    "date": "2026-02-11",
+    "title": "Entrepreneurship - Workshop - Basic accounting skills, bookkeeping ",
+    "program": "AWA Program",
+    "section": "Entrepreneurship"
+  },
+
+  {
+    "date": "2026-03-16",
+    "title": "Entrepreneurship - Cohort 9",
+    "program": "AWA Program",
+    "section": "Entrepreneurship"
+  },
+  {
+    "date": "2025-08-18",
+    "title": "IT - Cohort 6",
+    "program": "AWA Program",
+    "section": "IT"
+  },
+  {
+    "date": "2025-10-13",
+    "title": "IT - Cohort 7",
+    "program": "AWA Program",
+    "section": "IT"
+  },
+  {
+    "date": "2026-01-26",
+    "title": "IT - Cohort 8",
+    "program": "AWA Program",
+    "section": "IT"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "IT - Cohort 9",
+    "program": "AWA Program",
+    "section": "IT"
+  },
+  {
+    "date": "2025-01-30",
+    "title": "Information Session",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
+    "date": "2025-10-04",
+    "title": "Information Session",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
+    "date": "2025-07-15",
+    "title": " IT Training - cohort 3",
+    "program": "MIM Program ",
+    "section": "MIM"
+  },
+  {
+    "date": "2025-12-09",
+    "title": " IT Training - cohort 4",
+    "program": "MIM Program ",
+    "section": "MIM"
+  },
+  {
+    "date": "2025-05-10",
+    "title": "Food Handler's Training - Cohort",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
+    "date": "2025-10-11",
+    "title": "Food Handler's Training - Cohort",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
+    "date": "2026-03-07",
+    "title": "Food Handler's Training - Cohort",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
+    "date": "2026-09-10",
+    "title": "Home Day Care - Cohort",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+
+  {
     "date": "2025-01-21",
-        "title": "Home Day Care - Cohort",
-        "program": "MIM Program"
-    },
-    {
+    "title": "Home Day Care - Cohort",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
     "date": "2025-02-25",
-        "title": "Tax Clinics",
-        "program": "MIM Program"
-    },
-    {
+    "title": "Tax Clinics",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
     "date": "2025-03-03",
-        "title": "Tax Clinics",
-        "program": "MIM Program"
-    },
-    {
+    "title": "Tax Clinics",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
     "date": "2025-03-11",
-        "title": "Tax Clinicst",
-        "program": "MIM Program"
-    },
-    {
+    "title": "Tax Clinicst",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
     "date": "2025-03-17",
-        "title": "Tax Clinics",
-        "program": "MIM Program"
-    },
-    {
+    "title": "Tax Clinics",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
     "date": "2025-03-25",
-        "title": "Tax Clinics",
-        "program": "MIM Program"
-    },
-    {
+    "title": "Tax Clinics",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
     "date": "2025-04-01",
-        "title": "Tax Clinics",
-        "program": "MIM Program"
-    },
-    {
+    "title": "Tax Clinics",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
     "date": "2025-04-07",
-        "title": "Tax Clinics",
-        "program": "MIM Program"
-    },
-    {
+    "title": "Tax Clinics",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
     "date": "2025-04-15",
-        "title": "Tax Clinics",
-        "program": "MIM Program"
-    },
-    {
+    "title": "Tax Clinics",
+    "program": "MIM Program",
+    "section": "MIM"
+  },
+  {
     "date": "2025-04-27",
-        "title": "Tax Clinics",
-        "program": "MIM Program"
-    }
+    "title": "Tax Clinics",
+    "program": "MIM Program",
+    "section": "MIM"
+  }
 ]
