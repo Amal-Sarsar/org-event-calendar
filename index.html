@@ -202,7 +202,7 @@
 
       async function loadEvents() {
         try {
-          const res = await fetch("https://raw.githubusercontent.com/Amal-Sarsar/org-event-calendar/refs/heads/main/events.json");
+          const res = await fetch("events.json");
           events = await res.json();
           renderCalendar();
           renderUpcoming();
